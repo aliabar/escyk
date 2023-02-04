@@ -1,0 +1,29 @@
+
+     .a{
+        color: crimson !important;
+      text-transform: uppercase;
+      font-size: 17px;
+
+      font-weight: 600 !important;
+      }
+      button{
+      
+        text-transform: uppercase;
+        font-size: 10px;
+        font-weight: 600 !important;
+      }
+      
+      nav img{
+        width: 100%;
+        height: 90%;
+      }
+      ul{
+        position: fixed;
+        text-align: center !;
+      }
+nav{
+  position: fixed !important;
+  width: 100%;
+  z-index: 78 !important;
+  background-color: #fff;
+}

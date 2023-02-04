@@ -1,0 +1,40 @@
+.con{
+    background-color: crimson;
+    margin: 30px 0px;
+}
+.ro{
+    padding: 30px 0px;
+    text-align: center;
+}
+.ro img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.ro p{
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: capitalize;
+    letter-spacing: 0.2px;
+    color: #a82d49;
+}
+.ro .p{
+    font-size: 16px;
+    color: #555;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
+    margin: 10px 0px;
+    margin-top: 20px;
+}
+#xc{
+    background: #fff;
+    padding: 30px;
+    width: 80%;
+    border-radius: 15px;
+}

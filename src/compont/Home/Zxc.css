@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+header {
+    background: url("../../assets/3.jpg") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height: auto;
+    overflow: hidden;
+}
+
+header .row {
+    margin-top: 250px !important;
+
+}
+
+header h2 {
+    font-size: 55px !important;
+    line-height: 60px !important;
+
+    font-weight: 600;
+}
+
+header p {
+    color: #555;
+    font-weight: 400 !important;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+header button {
+    border-radius: 0% !important;
+    -webkit-border-radius: 0% !important;
+    -moz-border-radius: 0% !important;
+    -ms-border-radius: 0% !important;
+    -o-border-radius: 0% !important;
+    box-shadow: 0px 2px 25px -1px rgb(0 0 0 / 19%)
+}
+
+button:hover {
+    background-color: white !important;
+    color: crimson !important;
+    border: 2px solid red !important;
+}
